@@ -1,0 +1,8 @@
+#Aliases for Terimnal Commands
+
+alias d="cd ~/Documents"
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+alias g="git"
+alias h="history"
+alias dot="cd ~/dotfiles"
