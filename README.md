@@ -19,7 +19,7 @@ sh install.sh install_commons
 sh install.sh install_app_mac
 ```
 ### Install Homebrew Formulae ###
-When setting up a macOS environment it is much more efficient to utilize brew formulae with a convenient list found here --> https://formulae.brew.sh/cask/ and https://formulae.brew.sh/formula/ . Run:
+When setting up a macOS environment it is much more efficient to utilize brew formulae with a convenient list found here --> [casks](https://formulae.brew.sh/cask/) and [macOS formulae](https://formulae.brew.sh/formula/). Run:
 ```./brew.sh```
 
 ### iTerm configuration ###
@@ -33,8 +33,14 @@ To load iTerm profile, go to __Preferences__ -> __Profiles Tab__ and in the prof
 * zsh-theme ```powerlevel9k```
 
 
-![](screenshots/vim_preview.png)
+![](screenshots/brew_preview.png)
 
+## Vim ##
+*Config*
+* Plugin Manager ```vim-plug```
+* Theme ```dogrun``` [github-link](https://github.com/wadackel/vim-dogrun)
 Vim utilizes the [vim-plug](https://github.com/junegunn/vim-plug) package for plugin installs and updates.
 
-![](screenshots/brew_preview.png)
+# Screenshot #
+![](screenshots/vim_preview.png)
+
