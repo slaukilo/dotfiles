@@ -39,6 +39,7 @@ To load iTerm profile, go to __Preferences__ -> __Profiles Tab__ and in the prof
 *Config*
 * Plugin Manager ```vim-plug```
 * Theme ```dogrun``` [github-link](https://github.com/wadackel/vim-dogrun)
+
 Vim utilizes the [vim-plug](https://github.com/junegunn/vim-plug) package for plugin installs and updates.
 
 # Screenshot #
