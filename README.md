@@ -42,6 +42,6 @@ To load iTerm profile, go to __Preferences__ -> __Profiles Tab__ and in the prof
 
 Vim utilizes the [vim-plug](https://github.com/junegunn/vim-plug) package for plugin installs and updates.
 
-# Screenshot #
+### Screenshot ###
 ![](screenshots/vim_preview.png)
 
