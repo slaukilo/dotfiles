@@ -1,3 +1,10 @@
+" _   _ ________  _________  _____
+"| | | |_   _|  \/  || ___ \/  __ \
+"| | | | | | | .  . || |_/ /| /  \/
+"| | | | | | | |\/| ||    / | |
+"\ \_/ /_| |_| |  | || |\ \ | \__/\
+" \___/ \___/\_|  |_/\_| \_| \____/
+
 if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
