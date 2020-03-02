@@ -35,6 +35,13 @@ To load iTerm profile, go to __Preferences__ -> __Profiles Tab__ and in the prof
 
 ![](screenshots/brew_preview.png)
 
+#### iTerm v2 ####
+*Utilizing second iTerm json configurations package*
+
+![](screenshots/Pastel_v2_preview.png)
+![](screenshots/Pastel_v2_vim_preview.png)
+
+
 ## Vim ##
 *Config*
 * Plugin Manager ```vim-plug```
