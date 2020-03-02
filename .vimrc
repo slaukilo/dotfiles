@@ -31,6 +31,7 @@ Plug 'rainglow/vim'
 Plug 'itchyny/lightline.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'wadackel/vim-dogrun'
+Plug 'scrooloose/nerdtree'
 call plug#end()
 
 " Colors
